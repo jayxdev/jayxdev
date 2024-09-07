@@ -6,7 +6,7 @@ AI & ML | Data Science | Web Automation
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [My Portfolio](http://jayxdev.github.io)
-*   ✉️  You can contact me at [jayxdevsite@gmail.com](mailto:jay7080dev@gmail.com)
+*   ✉️  You can contact me at [jay7080dev@gmail.com](mailto:jay7080dev@gmail.com)
 *   🧠  I'm learning Generative AI
 *   🤝  I'm open to collaborating on any projects
 *   ⚡  Coding is one of my best hobbies, I do not feel tired while coding
