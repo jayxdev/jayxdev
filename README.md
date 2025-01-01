@@ -136,6 +136,8 @@ AI & ML | Data Science | Web Automation
                       href="http://www.github.com/jayxdev"></a><a href="https://github.com/jayxdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayxdev&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
                       
 ## 🛠 Projects
+### PCA-CNN Hybrid Model for Side Face Recognition
+Developed a novel approach for side face recognition using a hybrid of Principal Component Analysis (PCA) for dimensionality reduction and Convolutional Neural Networks (CNNs) for feature extraction and classification. By integrating PCA as a preprocessing step, we achieve high accuracy while significantly reducing the model size compared to traditional CNN-based methods.
 
 ### 1. Automated Rice Plant Disease Detection System
 Developed an automated system using Python, TensorFlow, Keras, OpenCV, Scikit-learn, and Flask to detect diseases in rice plants.
