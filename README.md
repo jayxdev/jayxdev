@@ -152,7 +152,7 @@ Conducted a customer segmentation analysis using the Mall Customers dataset, foc
 Created a Streamlit-based game where users solve logic puzzles by identifying missing shapes in a grid.
                       
 ### Support Me
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="217" height="60">](https://www.buymeacoffee.com/jayxdev)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60">](https://www.buymeacoffee.com/jayxdev)
 
 
 
