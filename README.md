@@ -130,10 +130,37 @@ AI & ML | Data Science | Web Automation
                     </picture>
                     </a></p>
                     
-### Badges<b>My GitHub Stats</b>
-<a
-                      href="http://www.github.com/jayxdev"><img src="https://github-readme-stats.vercel.app/api?username=jayxdev&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&show_icons=true" alt="jayxdev's GitHub stats" /></a><a
-                      href="http://www.github.com/jayxdev"></a><a href="https://github.com/jayxdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayxdev&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br>
+<p align = "center">
+<h3 align="center">✨Github Stats:</h3>
+
+<p align="center">
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=jayxdev&theme=highcontrast&border_radius=0&stroke=EB5454&currStreakNum=3836EB&sideNums=8BEB55&sideLabels=EB8720" alt="jayxdev stats" /><br><br>
+<!-- <h3 align="left">✨Github Activity:</h3> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jayxdev&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Status"/><br><br> -->
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jayxdev&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages"> -->
+
+<img src="https://raw.githubusercontent.com/jayxdev/github-stats-gen/master/generated/overview.svg#gh-dark-mode-only"/>
+
+<img src="https://raw.githubusercontent.com/jayxdev/github-stats-gen/master/generated/languages.svg#gh-dark-mode-only"/>
+
+
+ <h3 align="left">⚡Activity Graph:</h3>
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jayxdev&theme=react-dark" />
+</p>
+
+---
+
+<p align="center"> 
+  <b>Profile Visitor Count...</b><br><br>
+  <img src="https://profile-counter.glitch.me/jayxdev/count.svg" /><br>
+  <img src="hello.gif" height="400" autoplay>
+  <!-- ![hello](hello.gif) -->
+  
+</p>
+
+⭐️ From **jayxdev** ([@jayxdev](https://github.com/jayxdev))
+
                       
 ## 🛠 Projects
 ### 1. PCA-CNN Hybrid Model for Side Face Recognition
